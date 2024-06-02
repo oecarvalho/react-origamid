@@ -1,11 +1,9 @@
-import DesafioUnidade from "./components/DesafioUnidade";
-
-
+import TerceiraAtividade from "./components/TerceiraAtividade";
 
 
 const App = () => {
   return(
-    <DesafioUnidade/>
+    <TerceiraAtividade/>
   );
 };
 
