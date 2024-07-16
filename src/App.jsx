@@ -1,9 +1,10 @@
-import TerceiraAtividade from "./components/TerceiraAtividade";
+import QuartaAtividade from "./components/QuartaAtividade";
+
 
 
 const App = () => {
   return(
-    <TerceiraAtividade/>
+    <QuartaAtividade/>
   );
 };
 
